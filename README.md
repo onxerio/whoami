@@ -8,7 +8,7 @@
 
 
 I build a parallel path as an AI-augmented product engineer and offensive security
-practitioner — not through through shipped systems, documented
+practitioner through through shipped systems, documented
 exploits, and real hardware.
 
 
